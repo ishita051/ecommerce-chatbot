@@ -364,7 +364,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **NextAuth.js** for authentication
 
 ---
-
-**Built with ❤️ for the future of e-commerce**
-
-*Ready to transform your online shopping experience? Get started today!*
